@@ -1,0 +1,9 @@
+bash script first line is Shebang line
+Main purpose of shebang is specify which interpreteer executing the script. the path we gave is invoking the purticular interpreteer
+No space needed on the shebang line
+
+#!/bin/bash
+
+In the middle we have whihc command need to be executed
+
+In the end part is the exit statement the exite code of progreme, the exit code has 2 values 0 if its sucesfully exectued or (1-255_ failiures)
